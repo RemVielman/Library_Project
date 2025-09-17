@@ -47,7 +47,7 @@ namespace Library_UDB
                         Estadisticas(libreria);
                         break;
                     case "0":
-                        Console.WriteLine("Saliendo... :)");
+                        Console.WriteLine("Saliendo... GRACIAS :)");
                         return;
                     default:
                         Console.WriteLine("Opción no válida, intenta de nuevo.");
@@ -225,4 +225,5 @@ namespace Library_UDB
         }
     }
 }
+
 
